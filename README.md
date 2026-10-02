@@ -50,20 +50,6 @@ O projeto foi dividido em algumas classes, cada uma com uma responsabilidade esp
 - `Menu.java` — responsável pelo menu do sistema e pelas operações realizadas pelo usuário
 - `Main.java` — classe responsável por iniciar a aplicação
 
-## Como executar o projeto
-
-1º Clone este repositório:
-git clone https://github.com/joaonasc77/adote-um-pet.git
-
-2º Entre na pasta do projeto:
-cd adote-um-pet
-  
-3º Abra o projeto em uma IDE ou editor de sua preferência
-
-4º Execute a classe Main.java
-
-* OBS: o projeto utiliza Java 25.
-
 ## Possíveis melhorias
 
 - Permitir editar os dados de um animal
