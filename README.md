@@ -1,14 +1,14 @@
-# 🐶🐱 Adote-um-Pet
+# Adote-um-Pet
 
 Sistema desenvolvido em Java para gerenciamento de animais disponíveis para adoção.
 
-## 🐾 Sobre o projeto
+## Sobre o projeto
 
 O sistema de adoção de animais é uma aplicação desenvolvida em Java com o objetivo de simular o gerenciamento de animais para adoção. Ele permite cadastrar e consultar animais, realizar adoções, gerenciar quais animais estão disponíveis e quais foram adotados e cadastrar os adotantes.
 
 O projeto foi desenvolvido com foco no aprendizado e na aplicação prática dos principais conceitos do paradigma de Orientação a Objetos (POO) utilizando a linguagem Java.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Cadastro de animais
 - Listagem de animais cadastrados
@@ -19,7 +19,7 @@ O projeto foi desenvolvido com foco no aprendizado e na aplicação prática dos
 - Cadastro de adotantes
 - Listagem de adotantes
 
-## ☕ Conceitos de Java utilizados
+## Conceitos de Java utilizados
 
 - Classes e objetos
 - Encapsulamento
@@ -33,13 +33,13 @@ O projeto foi desenvolvido com foco no aprendizado e na aplicação prática dos
 - Switch
 - Scanner para entrada de dados
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Java
 - Visual Studio Code
 - Git e GitHub
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 O projeto foi dividido em algumas classes, cada uma com uma responsabilidade específica:
 
@@ -50,7 +50,7 @@ O projeto foi dividido em algumas classes, cada uma com uma responsabilidade esp
 - `Menu.java` — responsável pelo menu do sistema e pelas operações realizadas pelo usuário
 - `Main.java` — classe responsável por iniciar a aplicação
 
-## ⚙️ Como executar o projeto
+## Como executar o projeto
 
 1º Clone este repositório:
 git clone https://github.com/joaonasc77/adote-um-pet.git
@@ -64,7 +64,7 @@ cd adote-um-pet
 
 * OBS: o projeto utiliza Java 25.
 
-## 💡 Possíveis melhorias
+## Possíveis melhorias
 
 - Permitir editar os dados de um animal
 - Permitir remover animais cadastrados
